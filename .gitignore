@@ -1,0 +1,7 @@
+# Ignore system files
+Thumbs.db.DS_Store
+# Ignore VS Code extension, editor settings.vscode/
+# Ignore user data
+*.log
+# Ignore node_modules if present
+node_modules/
